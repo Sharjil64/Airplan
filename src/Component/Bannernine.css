@@ -1,0 +1,126 @@
+.mainnine{
+    width: 100%;
+    height: 300px;
+    background-color: #FFA63D;
+    
+}
+
+
+.bannernine-container{
+    width: 100%;
+    height: 300px;
+    background-color: #FFA63D;
+    margin-top: 700px;
+    display: flex;
+    align-items: center;
+   padding-bottom: 300px;
+}
+
+.image-wrapper img{
+    
+    width: 370px;
+    height: 430px;
+   margin-left: -550px; 
+   
+}
+
+
+
+.nav-button-left{
+   margin-left: 80px;
+    margin-top: 300px;
+    
+}
+.nav-button-left img{
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    position: relative;
+    position: relative;
+    display: inline-block;
+    
+    
+}
+
+
+.image-wrapper .play-icon {
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    font-size: 24px; 
+    color: white; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    border-radius: 50%;
+    width: 50px; 
+    height: 50px; 
+    position: absolute;
+    bottom: -25px; 
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    display: flex;
+}
+
+
+
+.detailsnine{
+   padding-left: 200px;
+   color: beige;
+   background-color: #FFA63D;
+}
+
+.head1{
+    margin-left:-15px;
+}
+
+.head2{
+    margin-left:35px;
+   
+}
+
+.detailsnine p{
+    padding-right: 50px;
+    
+}
+
+.action-buttons{
+    margin-top: 15px;
+    background-color: #FFA63D;
+}
+
+.visit-button{
+    height: 50px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 26px;
+    border-radius: 25px;
+    background-color: #5E1EE5;
+    color: white;
+    margin-right: 75px;
+
+}
+
+.store-buttons{
+   margin-left: -4px;
+   background-color: #FFA63D;
+}
+
+.store-buttons img{
+    height: 50px;
+    width: 130px;
+    
+}
+
+.nav-button-right{
+  margin-top: 300px;
+  margin-right: 50px;
+}
+
+.nav-button-right img{
+    height: 50px;
+    width: 50px;
+    
+  }

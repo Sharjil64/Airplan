@@ -1,0 +1,61 @@
+.fivr{
+    width: 50%;
+    height: 300px;
+}
+
+.content{
+    text-align: left;
+    margin-top: 130px;
+}
+
+.title{
+    padding-left: 50px;
+    color: #111111;
+    font-size: 35px;
+}
+.para{
+    padding-left: 60px;
+    color: #A39898;
+    
+}
+
+.pcc{
+    width: 50%;
+    
+    padding-left: 700px;
+    
+}
+
+.pcc img{
+    width: 550px;
+    margin-top: -60px;
+}
+
+.video-thumbnails {
+    height: 600px;
+    padding-left: 500px;
+    padding-right: 60px;
+    width: 100%;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    gap: 200px; 
+  
+  }
+
+  .thumbnail video {
+    width: 260px; 
+    height: 180px; 
+    
+    object-fit: cover; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease; 
+  }
+  
+  
+
+  .thumbnail video:hover {
+    transform: scale(1.05); 
+  }
+  

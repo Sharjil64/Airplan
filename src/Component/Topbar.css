@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.topbar{
+    width: 100%;
+    height: 50px;
+    background-color: #171717;
+    padding-bottom: 2px;
+    padding-left: 18px;
+    align-items: center;
+    display: flex;
+    justify-content: s;
+}
+
+
+div ul{
+    display: flex;
+    /* justify-content: space-evenly;  */
+}
+ div ul li{
+   display: flex;
+   margin: 20px;
+   
+} 
+
+div ul  button{
+    width: 100px;
+      margin: 12px;
+    margin: 2px,3px,3px;
+    border-radius: 2px;
+    box-sizing: border-box;
+    border-color: black;
+    
+}
